@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#0F2E22"/>
+  <!-- Pillar 1: Leaf / People / Good Herb -->
+  <path d="M32 12C32 12 20 22 20 34C20 40.6274 25.3726 46 32 46C38.6274 46 44 40.6274 44 34C44 22 32 12 32 12Z" stroke="#C5A869" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Central Stem / Pillar 2: Industry / Pallets -->
+  <path d="M32 20V46" stroke="#E8E5DF" stroke-width="2" stroke-linecap="round"/>
+  <!-- Pillar 3: Circular Orbit / EV Recycling -->
+  <path d="M22 30C23.5 25 27 22 32 22C37 22 40.5 25 42 30" stroke="#C5A869" stroke-width="2" stroke-linecap="round" stroke-dasharray="2 3"/>
+  <circle cx="32" cy="49" r="2.5" fill="#C5A869"/>
+</svg>
